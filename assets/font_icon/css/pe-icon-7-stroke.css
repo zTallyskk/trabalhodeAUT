@@ -177,9 +177,9 @@
 .pe-7s-film:before {
 	content: "\e6a5";
 }
-.pe-7s-science:before {
+/*.pe-7s-science:before {
 	content: "\e619";
-}
+}*/
 .pe-7s-disk:before {
 	content: "\e6a6";
 }
